@@ -1,0 +1,20 @@
+violences verbales  79.5
+violences physiques  37.3
+violences sexuelles  20.5
+violences administratives  26.5
+violences sur les enfants  7.2
+
+
+142 total
+v 66
+ph 31
+sex 17
+admin 22
+6
+[
+  {"title":"violences verbales","subtitle":"US$, in thousands","ranges":[150,225,300],"measures":[220,270],"markers":[250]},
+  {"title":"violences physiques","subtitle":"%","ranges":[20,25,30],"measures":[21,23],"markers":[26]},
+  {"title":"violences sexuelles","subtitle":"US$, average","ranges":[350,500,600],"measures":[100,320],"markers":[550]},
+  {"title":"violences administratives","subtitle":"count","ranges":[1400,2000,2500],"measures":[1000,1650],"markers":[2100]},
+  {"title":"violences sur les enfants","subtitle":"out of 5","ranges":[3.5,4.25,5],"measures":[3.2,4.7],"markers":[4.4]}
+]
